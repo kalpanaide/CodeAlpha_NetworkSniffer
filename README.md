@@ -32,5 +32,3 @@ CodeAlpha_NetworkSniffer/
 │
 ├── logs/
 │   └── capture_log.json   # Output audit logs of captured TLS handshakes
-│
-└── tests/                 # Unit test directory
